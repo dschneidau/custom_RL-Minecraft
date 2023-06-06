@@ -1,0 +1,19 @@
+enchant a Books
+enchant a Helmet
+enchant a Turtle shell
+enchant a Chestplate
+enchant a Leggings
+enchant a Boots
+enchant a Sword
+enchant a Pickaxe
+enchant a Axe
+enchant a Shovel
+enchant a Hoe
+enchant a Bow
+enchant a Fishing rod
+enchant a Trident
+enchant a Crossbow
+enchant a Shears
+enchant a Shield
+enchant a Elytra
+enchant a Flint and Steel

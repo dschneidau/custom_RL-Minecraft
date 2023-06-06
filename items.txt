@@ -1,0 +1,19 @@
+Books
+Helmet
+Turtle shell
+Chestplate
+Leggings
+Boots
+Sword
+Pickaxe
+Axe
+Shovel
+Hoe
+Bow
+Fishing rod
+Trident
+Crossbow
+Shears
+Shield
+Elytra
+Flint and Steel

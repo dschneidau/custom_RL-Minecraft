@@ -1,0 +1,283 @@
+ Build a pig farm.
+ Build a sheep farm.
+ Build a cow farm.
+ Build a chicken farm
+ Build a cactus farm
+ Build a Wheat farm
+ build a simple tower
+ build a small castle
+ build a small boat
+ build a beach house
+ make a iron farm
+ build a witch house
+ plant trees
+ make afk fish farm
+ build the giant farm
+ make a wood farm
+ build a tiny boat
+ make a tripwire trap
+ build a chicken coop
+ build a small library
+ build a rope bridge
+ build a small house
+ build a mushroom house
+ build a nether base
+ build a wooden house
+ build a gold farm
+ make an iron farm
+ design an ice farm
+ build a minecart track
+ build a nether portal
+ build a cottage
+ make a wool farm
+ build a nether house
+ build a guardian farm.
+ build an end island.
+ make a creeper farm
+ build a village house
+ Build an automatic wheat farm.
+ Build an automatic gold farm.
+ Build an automatic cow farm.
+ Build an automatic sheep farm.
+ Build an automatic sugar cane farm.
+ Build an automatic hostile mob farm.
+ Build an automatic wool farm.
+ Build an automatic gold farm
+ Build a mob farm
+ Build an automatic pumpkin farm
+ build an automatic cooked chicken farm
+ build a automatic cobblestone generator
+ build an automatic fishing farm
+ build an automatic pumpkin farm
+ build a automatic chicken farm
+ build a automatic bamboo farm
+ Build a Enderman farm
+ Build a cactus farm
+ Build a slime farm 
+ Build an automatic honey farm
+ Build a piglin farm
+ Build an automatic villger breeder
+ Build a automatic kelp farm
+ Build an automatic melon farm
+ Build a water elevator
+ Build a milk farm
+ Sail a boat across the water
+ Explore the world to find ocean
+ Explore the world to find nether
+ Explore the world to find village
+ Tame a wolf
+ Harvest milk with a bucket
+ Harvest wool with shears
+ Mine without tools
+ Mine with wooden tools
+ Mine with stone tools
+ Mine with iron tools
+ Mine with gold tools
+ Mine with diamond tools
+ Mine with netherite tools
+ craft a Wooden Plank
+craft a Stick
+craft a Torch
+craft a Crafting Table
+craft a Furnace
+craft a Chest
+craft a Wood Pickaxe
+craft a Stone Pickaxe
+craft a Iron Pickaxe
+craft a Gold Pickaxe
+craft a Diamond Pickaxe
+craft a Wood Shovel
+craft a Stone Shovel
+craft a Iron Shovel
+craft a Gold Shovel
+craft a Diamond Shovel
+craft a Wood Axe
+craft a Stone Axe
+craft a Iron Axe
+craft a Gold Axe
+craft a Diamond Axe
+craft a Wood Hoe
+craft a Stone Hoe
+craft a Iron Hoe
+craft a Gold Hoe
+craft a Diamond Hoe
+craft a Bucket
+craft a Flint and Steel
+craft a Fire Charge
+craft a Fishing Rod
+craft a Carrot on a Stick
+craft a Compass
+craft a Clock
+craft a Map
+craft a Shear
+craft a Wood Sword
+craft a Stone Sword
+craft a Iron Sword
+craft a Gold Sword
+craft a Diamond Sword
+craft a Bow
+craft a Arrow
+craft a Leather Helmet
+craft a Iron Helmet
+craft a Gold Helmet
+craft a Diamond Helmet
+craft a Leather Chestplate
+craft a Iron Chestplate
+craft a Gold Chestplate
+craft a Diamond Chestplate
+craft a Leather Legging
+craft a Iron Legging
+craft a Gold Legging
+craft a Diamond Legging
+craft a Leather Boot
+craft a Iron Boot
+craft a Gold Boot
+craft a Diamond Boot
+craft a Iron Block
+craft a Gold Block
+craft a Diamond Block
+craft a Glowstone
+craft a Clay Block
+craft a Stone Brick
+craft a Sandstone
+craft a Smooth Sandstone
+craft a Decorative Sandstone
+craft a Snow Block
+craft a Wool Block
+craft a Wooden Slab
+craft a Stone Slab
+craft a Sandstone Slab
+craft a Stone Brick Slab
+craft a Brick Slab
+craft a Cobblestone Slab
+craft a Wood Stair
+craft a Cobblestone Stair
+craft a Wood Door
+craft a Iron Door
+craft a Trapdoor
+craft a Ladder
+craft a Fence
+craft a Fence Gate
+craft a Nether Brick Fence
+craft a Cobblestone Wall
+craft a Mossy Cobblestone Wall
+craft a Iron Bar
+craft a Glass Pane
+craft a Bread
+craft a Mushroom Stew
+craft a Cake
+craft a Cookie
+craft a Pumpkin Pie
+craft a Golden Carrot
+craft a Golden Apple
+craft a Enchanted Golden Apple
+craft a Paper
+craft a Book
+craft a Book and Quill
+craft a Sign
+craft a Painting
+craft a Item Frame
+craft a Flower Pot
+craft a Bowl
+craft a Sugar
+craft a Pumpkin Seed
+craft a Melon Seed
+craft a Glistening Melon
+craft a Bed
+craft a Beacon
+craft a Cauldron
+craft a Enchantment Table
+craft a Ender Chest
+craft a Anvil
+craft a Blaze Powder
+craft a Brewing Stand
+craft a Eye of Ender
+craft a Fermented Spider Eye
+craft a Bottle
+craft a Magma Cream
+craft a Coal block
+craft a Cobblestone
+craft a Stone Block
+craft a Diamond block
+craft a Flint
+craft a Gunpowder
+craft a Emerald block
+craft a Nether Brick
+craft a Mossy Cobblestone
+craft a Red Mushroom
+craft a Brown Mushroom
+craft a Melon Slice
+craft a Sugar Cane
+craft a Ink Sac
+craft a colored Wool block
+craft a Cooked Chicken
+craft a Cooked Porkchop
+smelt a raw porkchop
+smelt a raw beef
+smelt a raw chicken
+smelt a raw cod
+smelt a raw salmon
+smelt a potato
+smelt a raw mutton
+smelt a raw rabbit
+smelt a kelp
+smelt a raw copper
+smelt a raw iron
+smelt a raw gold
+smelt a nether gold ore
+smelt a ancient debris
+smelt a copper ore
+smelt a diamond ore
+smelt a gold ore
+smelt a iron ore
+smelt a lapis Lazuli ore
+smelt a redstone block
+smelt a coal ore
+smelt a emrald ore
+smelt a nether quartz ore
+smelt a iron armor
+smelt a gold armor
+smelt a sand
+smelt a cobblestone
+smelt a sandstone
+smelt a red sandstone
+smelt a stone
+smelt a block of quartz
+smelt a clay ball
+smelt a netherrack
+smelt a nether bricks
+smelt a basalt
+smelt a clay
+smelt a stone bricks
+smelt a polished blackstone bricks
+smelt a cobbled deepslate
+smelt a deepslate bricks
+smelt a deepslate tiles
+smelt a dyed terracotta
+smelt a cactus
+smelt a wood
+smelt a stripped wood
+smelt a stripped log
+smelt a log
+smelt a chorus fruit
+smelt a wet sponge
+smelt a sea pickle
+enchant a Book
+enchant a Helmet
+enchant a Turtle shell
+enchant a Chestplate
+enchant Leggings
+enchant a Boots
+enchant a Sword
+enchant a Pickaxe
+enchant a Axe
+enchant a Shovel
+enchant a Hoe
+enchant a Bow
+enchant a Fishing rod
+enchant a Trident
+enchant a Crossbow
+enchant Shears
+enchant a Shield
+enchant an Elytra
+enchant a Flint and Steel
